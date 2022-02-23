@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few lines in true love to such that frequent the meetings of the people called Quakers and love to hear the sound of truth but are not yet come to obey the testimony of it, that they may also hear and learn to read at home : with a second addition as a confirmation of what the Lord requires at your hands.</title>
+            <author>Fisher, A. (Abigail)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41345</idno>
+            <idno type="STC">Wing F984C</idno>
+            <idno type="STC">ESTC R32818</idno>
+            <idno type="EEBO-CITATION">12770407</idno>
+            <idno type="OCLC">ocm 12770407</idno>
+            <idno type="VID">93652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93652)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1526:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few lines in true love to such that frequent the meetings of the people called Quakers and love to hear the sound of truth but are not yet come to obey the testimony of it, that they may also hear and learn to read at home : with a second addition as a confirmation of what the Lord requires at your hands.</title>
+                  <author>Fisher, A. (Abigail)</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: A. Fisher.</note>
+                  <note>Attributed to Abigail Fisher by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb n="1" facs="tcp:93652:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <head>A few Lines in true love to ſuch that frequent the Meetings of the People called <hi>Quakers,</hi> and love to hear the ſound of Truth, but are not yet come to obey the Teſtimony of it, that they may alſo hear and learn to Read at Home.</head>
+            <head type="sub">With a Second Addition as a Confirmation of what the Lord requires at your Hands.</head>
+            <opener>
+               <salute>FRiends,</salute>
+            </opener>
+            <p>hearing ſeveral Teſtimonies and Exhortations daily ſounded in our Ears, concerning our Accuſtoming, Habit<g ref="char:EOLhyphen"/>ing or Adorning our ſelves as becomes the Truth that we make profeſſion of, there is a little in my Heart in the love of God to you <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat frequent the meetings of Friends, and daily hear the ſound and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endency of Truth, as it is by one and another of the Servants of the Lord ſpoken amongſt us, for this very end, that all may give diligent <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed to the faithful and true witneſs of God in them, that by the Word and Power of God in them, the Word Preached may be ſo <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffectually received, and mix'd with Faith in the appearance of the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of Gods love, that thereby it may take place in your Hearts, ſo <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to ſeparate your Minds and Deſires from thoſe things that the Truth is calling from, and alſo give you a ſenſe of what the Truth <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s calling to, or otherwiſe all your outward hearing, although it be <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Servants of the Lord who do ſpeak in the power and demonſtra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the Spirit of God, will not do that work for you that God hath done for many of his Children and People, except you will give di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igent heed to his faithful and true Witneſs in you, which is always near to inſtruct you; and if you will retire, and liſten to hear when you are in Meetings, you will find what of the Teſtimony doth be<g ref="char:EOLhyphen"/>long to your inward State, and whether or no you are of that num<g ref="char:EOLhyphen"/>ber that doth adorn your ſelves in thoſe things which the Teſtimony doth condemn, or whether you are juſtifiable in the ſight of the Great God. Friends, ſuffer me to tell you, there are ſome that frequently
+<pb n="2" facs="tcp:93652:2"/>
+               <!-- PDF PAGE 62 -->come amongſt the People of the Lord, that have not yet given dili<g ref="char:EOLhyphen"/>gent heed to the witneſs of God in them, nor to the many Teſtimo<g ref="char:EOLhyphen"/>nies of the Servants of the Lord that comes amongſt them, but do ſit careleſly as if they had no other concern but to Hear from one day to another, and do not conſider the good end of the Lord, and his Faithful Meſſengers to them, which is that all ſhould hearken, and ſo Hear and Obey, that thereby their Souls may live to God in that Life that doth adorn the Teſtimony of Truth, which they ſo often come to Hear: And it is as a Lovely Song to many that are not yet come to ſing the Song of the Redeemed from the Corruptible things, but do ſeem to content themſelves with hearing that there is Bread e<g ref="char:EOLhyphen"/>nough in our Fathers Houſe, but do not Partake and Eat ſo worthi<g ref="char:EOLhyphen"/>ly, as that their Souls may live more and more to God, and leſs to the out-goings of that Mind which we ſee is gone into many vain and ungodlike things: And may it not be ſaid to ſuch, why do you love to Hear? Do you not deſire to be of that number that quakes and trembles at the Word of the Lord? If any ſhould ſay yea, then let me tell you, it was no leſs than the Word and Power of God that did firſt take place amongſt the People of the Lord, which made many to quake and tremble, when it firſt ſtruck at the lifeleſs Profeſſion that many were in, in a form of Godlineſs, without a ſenſe of that invi<g ref="char:EOLhyphen"/>ſible Life and Power of God that raiſes and quickens the Soul, by which it comes to be made capable of Worſhipping and Serving the True and Living God aright in the newneſs of the Spirit, and in the Truth, for which end he hath given every one a Meaſure to improve and profit withal. Therefore dear Friends, let none that are convin<g ref="char:EOLhyphen"/>ced of the bleſſed Truth, and comes amongſt the People of the Lord, ſet down as unconcerned, or content with Hearing or Profeſſing, with<g ref="char:EOLhyphen"/>out deſiring to be made Poſſeſſors of the vertue of that inviſible Life and Power of God, by which you may be made Partakers of thoſe Glorious and Heavenly things that you ſo often hear ſpoken of; which you can never do, except you Retire, Conſider and Hearken to the Voice of the Lord at Home in your ſelves, every one apart; for the Promiſes are all, yea and Amen to the Seed Chriſt, and all that Hear and Obey the Word of Life in themſelves, their Souls ſhall live.</p>
+            <p>Then in obeying the Word of God, which is the promiſed Seed that is to bruiſe the Head of the Serpent in you, you will find it will lead
+<pb n="3" facs="tcp:93652:2"/>
+               <!-- PDF PAGE 62 -->you contrary to that ungodlike Life that too to many do live in, and ſome under a Profeſſion of Religion. But the pure Religion is the ſame as ever it was; and as you come to be acquainted with it, it will keep you from the Spots of this ungodly World, Vanities and Follies that are committed therein. Friends, are you not ſometimes touched with a Senſe of the goodneſs of God to you; then what doth it call for from you? doth it not call for Circumſpection in adorning and demeaning your ſelves in that Moderation that becomes your Chriſtian Profeſſion. Friends, my tender deſires are for you, and I am concerned for you, that you may ſee what it is that hath led out your Minds into many things that the Truth doth daily exhort you from; and by that means you will come clearly to ſee the one thing need<g ref="char:EOLhyphen"/>ful, which is to ſet at the Feet of Jeſus, where you may hear thoſe gracious Words that proceed from his Mouth, and hearken and hear what the Spirit ſaith unto the Churches in this our Day; which is calling for Purity and Holineſs, that ye may be as Gods peculiar People.</p>
+            <p>Therefore every one to an inward hearkening, to hear that Voice that calls behind you, ſaying, <hi>This is the way walk in it;</hi> which alſo calls us to be a People of one Heart and Mind, in thoſe things that will ſhew forth our Love to God, and his bleſſed Truth, and one to another, in which we ſhall feel the Condeſcendings of his Heavenly Power, to draw all that are truly Religious together, and will make them deſire to appear as Children of our one Heavenly Father, whoſe care is ſtill over us, and his prolonged Mercies ſtill held out amongſt us, for which I can do no leſs than bleſs the Lord in the renewed Senſe of the ſame, which I feel upon my Spirit at this time, deſiring that I with you, and you with me, may ſo in Faithfulneſs approve our Hearts to the Lord, that not one amongſt us may be found of that number that are drawing down the Judgments of God, by a careleſs and diſregardful Mind of the many Mercies that we have and do yet enjoy: But rather let our approachings be in that, in which we may ſtand in the Gap, and interceed with the Lord for this the Land of our Nativity and Country in which we dwell; for which dear Friends, let us increaſe the number of true Breathings, tender and fervent Supplications, ſuch as may find acceptance with the Great God who is Lord of Lords, and King of Kings, and ought to be the only Ru<g ref="char:EOLhyphen"/>ler in every one of our Hearts: To whom belongs all Honour, Glo<g ref="char:EOLhyphen"/>ry,
+<pb n="4" facs="tcp:93652:3"/>
+               <!-- PDF PAGE 63 -->Reverence and Godly Fear; and to him let it be given at this time, and for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>A. F.</signed>
+            </closer>
+         </div>
+         <div type="religious_tract">
+            <opener>
+               <salute>My Friends,</salute>
+            </opener>
+            <p>THeſe foregoing Lines were intended you ſome time ſince, but I was not willing haſtily to publiſh them, till now having good Confirmation by the Teſtimony of the Spirit of God, that runs as in a Current or Stream of Life through many of his faithful Servants; by which you and I may underſtand, that this is his Will, and the pre<g ref="char:EOLhyphen"/>ſent concern of many that are convinced of the bleſſed Truth, and comes amongſt us, that they may all walk in the Truth, and accor<g ref="char:EOLhyphen"/>ding to the Righteous Teſtimony of it in their own Hearts, that ſtill the Teſtimony of Truth may be preſerved in the purity and ſweetneſs of it, by all you who do profeſs it, and have believed in the Spiritual Appearance of Chriſt Jeſus in your Hearts, who ſaid, <hi>I am come a Light into the World, he that believeth in me, ſhall not abide in Darkneſs, but ſhall have the Light of Life.</hi> And bleſſed be the Lord, many can teſtify; he that hath promiſed, is faithful to perform: By which we know the true Light hath not only broken forth, but the Sun hath alſo riſen, and in its clearneſs ſhined that Diſcoveres unto Man what is good, and makes known the Exceptable Will of God, which is, that Man ſhould <hi>do Juſtly, love Mercy, and walk Humbly with God,</hi> whoſe all-ſeeing Eye beholds all things, both the Evil and the Good: And therefore you that have believed in the Light, take heed to the Light, that you may be the Children of the Light, and of that bleſſed Day that many through the Divine Diſcovery of it, hath and will find themſelves concerned to do good, and communicate of thoſe Spiritual Bleſſings that they do receive from the Hand of the Lord, who through the Riches of his Love, doth communicate to his Chil<g ref="char:EOLhyphen"/>dren and People that wait upon him, ſuch inward Comforts that doth refreſh them; by which they have been often made to ſay, it is the Lord that opens the Depths, and cauſes the Brooks to run by the way. And therefore in a living Senſe thereof, let us all be of a ready Mind as dear Children, to Communicate, and alſo to Receive one from another, that which the Lord may ſee convenient by any Hand to diſtribute amongſt us, that may tend to Edification, Strength or Con<g ref="char:EOLhyphen"/>firmation
+<pb n="5" facs="tcp:93652:3"/>
+               <!-- PDF PAGE 63 -->in that meaſure of the ſamemoſt holy Faith which was once delivered to the Saints, and which in ſome degree hath been delivered <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o us in this our Day, by which many can bear witneſs to the truth of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Saying, <hi>As the Wind bloweth where it liſteth;</hi> even ſo is every one born of the Spirit, into which Spirit the Lord hath gathered many; not<g ref="char:EOLhyphen"/>withſtanding there are many Enemies to Truth through the ſubtle working of the one Enemy of Mans Happineſs and all Righteouſneſs, who goes about as he always did, ſeeking whom he may devour; ha<g ref="char:EOLhyphen"/>ving many ſubtle Devices, by which he hath drawn many from that true regard to the Lord their Maker, in which their Preſervation doth conſiſt; for which indeed, Dear Friends, we have all cauſe to ſeek the Lord, not only for our ſelves, but alſo one for another, that all thoſe whom God hath called, and given Faith to believe in the diſ<g ref="char:EOLhyphen"/>penſation of his Grace and Power in our Hearts, may be preſerved under the ſafe conducts of it, through this the Pilgrimage of our ſo<g ref="char:EOLhyphen"/>journing here towards that everlaſting Reſt which many People are deſirous to enter, and of which the Lord hath given ſome an Earneſt in this our Day, by which they are incouraged to go forward in that way which leads to Everlaſting Life, which way is Chriſt Je<g ref="char:EOLhyphen"/>ſus who appears in us, to us, and amongſt us, for that very End that ſhe might reſtore Man and Woman into a ſtate of Happineſs and Fe<g ref="char:EOLhyphen"/>licity again, with God their Maker, who made Man for a purpoſe of his own Glory, although Man hath ſought out many Inventions with pretence to glorify God: But we may ſee that Mans pretended ways have greatly tended to the Diſhonour of the Righteous God that made him, and hath put his Spirit in him, for that very end, that Man might be taught by it, to deny Ungodlineſs through his Sub<g ref="char:EOLhyphen"/>jection to it; or otherwiſe, what is all Mans ſaying or doing, in pre<g ref="char:EOLhyphen"/>tence to honour God, while they do live in Unrighteouſneſs, and do unjuſtly one by another? which we do too often ſee is inſident to Man in his fallen Nature: And therefore in this conſiſts all Man's Happineſs, in Believing and Receiving him whom God hath or<g ref="char:EOLhyphen"/>dained a means for their Recovery, by which they may be brought into a ſtate of Union and Communion with him again. And there<g ref="char:EOLhyphen"/>fore all you who have believed in the bleſſed Appearance of Chriſt Jeſus in your Hearts, let it be your Buſineſs, and chiefeſt Buſineſs, to walk according to the Convictions of it, that by the meaſure of
+<pb n="6" facs="tcp:93652:4"/>
+               <!-- PDF PAGE 64 -->the Spirit of God received, you may be able to reſiſt that Anti-chriſtian Spirit which is againſt God, and an Enemy to all Righteouſ<g ref="char:EOLhyphen"/>neſs; and as you come to be inward, and commune with your own Hearts and be ſtill, you will find what is moſt conſiſtent with, and agreeable to the nature of Godlineſs, and what is moſt againſt the nature of God, who is Love; and they that dwell in Love, are found in that which is good, and moſt agreeable to his Will, who is the Author of all good: And hear you will come to find the plain path way, as you come to receive the Reproofs for that which is againſt God, by which you will alſo find by good and ſound Experience, that the Reproofs of Inſtruction, is the way to Life; and this is the univerſal Love of our God to all Mankind, that thereby they may come under the peaceable government of his Son our Lord and Sa<g ref="char:EOLhyphen"/>viour Chriſt Jeſus; to whom in true love let me recommend you, that we may all be partakers of the bleſſed Benefits, Death and Suf<g ref="char:EOLhyphen"/>ferings of our Lord, who gave himſelf a Ranſom, that he might Re<g ref="char:EOLhyphen"/>deem Mankind from all Iniquity and Diſobedience, by which he did violate his Law, and incur his Diſpleaſure; but through Chriſt in the Riches of his Love, he hath and doth call all Men every where to Repentance, and that they may Repent with that Repentance that can never be Repented of: And therefore all you to whom the Call of the Lord hath reached, and are in ſome meaſure made ſenſible of his good Will therein, but have not yet ſo obeyed, as to know the work of Sanctification, Salvation and Redemption, out of that ſtate of Alienation in which there is a Separation in all Mankind from God, and from the comfortable Enjoyment of his pure Divine Pre<g ref="char:EOLhyphen"/>ſence, in which there is Life adminiſtred to the Soul. Take you ſpecial Notice of the daily Call and Invitation of the Spirit of God that is wonderfully extended to you, and doubtleſs in you, for that very Reaſon that you may all be gathered near to the Lord, to whom with many more that are ſenſible of his Love, and do daily demon<g ref="char:EOLhyphen"/>ſtrate the ſame by their faithful Service to and amongſt you, with whom according to that meaſure of the Grace and Spirit of God re<g ref="char:EOLhyphen"/>ceived, I do find my Spirit drawn forth with, and in the uniting pro<g ref="char:EOLhyphen"/>perty of it, thus to demonſtrate that my true Deſires with theirs, are for all <hi>Iſrael,</hi> that they may be Saved in the Day of the Lord which is approaching; and it is nothing leſs my Friends, than the
+<pb n="7" facs="tcp:93652:4"/>
+               <!-- PDF PAGE 64 -->Love of God that hath inlarged my Heart to you, knowing that you will find it no leſs than Meat and Drink, as you come to do the Will of God; whoſe Will is Mans Sanctification. Wherefore it behoves all Men to ſeek the Lord, and make their Peace with him, that there<g ref="char:EOLhyphen"/>in they may be preſerved, when the Lord ſhall ſuffer Trouble to come upon the Wicked and Rebellious, for reſiſting the Spiritual ap<g ref="char:EOLhyphen"/>pearance of Chriſt Jeſus in their Hearts, to whom I pray we may all be gathered, in him ſettled, and on him eſtabliſhed, who is the Rock of Ages, and ſure Foundation of all the Righteous Generations from <hi>Abel</hi> to this very day; and bleſſed be the Lord, there are ſome in our day, through a meaſure of true Experience, can give this Te<g ref="char:EOLhyphen"/>ſtimony that there is no other place of ſafety, But as our hiding place is in the Lord, in all Storms and Tempeſts of what kind ſoever; and not only ſo, but that we may alſo ſee the many dangers that Man is liable to, in times of Fair Weather: And therefore Dear Friends, let me tell you for you Incouragement, it is a bleſſed Be<g ref="char:EOLhyphen"/>nefit, and will be to all, as they retire in Humility, and in the Love of God dwell, which is a place of Safety, where you may daily drink of the Streams of that never-failing Fountain which can ne<g ref="char:EOLhyphen"/>ver be drawn dry, but doth and will run to refreſh the Inhabitants of the Rock; that being refreſhed, we may all be ſtill enabled to walk in the way of Righteouſneſs, which brings Peace, and gives an Aſſurance of the Love of God for ever, in which Love you will feel his Power to be as a ſtrong Tower from the Aſſaults of the E<g ref="char:EOLhyphen"/>nemy. Into which Love let every one haſte to be gathered, and then it will not only Edify, but build up all the Lords People, to be as a ſtrong Houſe to retain his Glory in, which hath and ſhall ſhine through all Blackneſs and Darkneſs, till the Light thereof go forth as as a Lamp that Burneth, which being fed with Oyl, ne<g ref="char:EOLhyphen"/>ver goeth out; with which Oyl, I pray all our Lamps may be fur<g ref="char:EOLhyphen"/>niſhed, our Lights burning, that the Glory of our God may ſtill be ſhining in and over all the Aſſemblies of his People hear and every where: For it is the poſſeſſion of it, muſt weigh down all the pro<g ref="char:EOLhyphen"/>feſſion in the World without it. And therefore Friends, to God who is the giver of every good and perfect gift, let me recommend you to ask in Faith of him, that you may all receive from him, that there<g ref="char:EOLhyphen"/>by we may all be filled as with the new Wine of the Kingdom, with
+<pb n="8" facs="tcp:93652:5"/>
+               <!-- PDF PAGE 65 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:93652:5"/>
+               <!-- PDF PAGE 65 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:93652:6"/>
+               <!-- PDF PAGE 66 -->which the Lord is filling the new Bottles that are prepared to re<g ref="char:EOLhyphen"/>ceive from his Bountiful Hand; by which he hath and will com<g ref="char:EOLhyphen"/>municate from Veſſel to Veſſel, till all be filled, and every thirſty Soul repleniſhed by the virtuous incomes of it, through which they muſt acknowledge it is the Lords doings, and it is, and will be mar<g ref="char:EOLhyphen"/>velous in the Eyes of all who are the Beholders of it with that in<g ref="char:EOLhyphen"/>viſible Eye that God hath opened to behold his Glory, far ſurpaſſing all the glory of this fading World. Therefore dear Friends, be not ſatisfied with Hearing, but come now, and behold him who is near you, and will tell you all that ever you have done, is not this the Chriſt the Meſſiah, or Son of the Living God, or Saviour of Man<g ref="char:EOLhyphen"/>kind; yes verily, this is he, believe in him, fall down and worſhip him, who will be worſhipped in Spirit and in Truth: And all other Worſhips will be as vain Oblations before him. And therefore all ſeek the Lord; retire to your Cloſets, and wait upon him, and in your Spirits wherever you are, gather to him who is always near you, even in you, and always preſent with you, which is a great priviledge you will find it ſo, as you come to be acquainted with him, as it is left upon Record. Acquaint thy ſelf with the Lord, and be at Peace; into which Peace I pray the Lord to gather, and preſerve all his Faithful Children together, that as ſo many ſhocks of Corn, we may all be ready to be bundled up, and gathered in<g ref="char:EOLhyphen"/>to the Lords Gardner, who hath ſaid, he will burn up the Chaff with unquenchable Fire.</p>
+            <closer>
+               <signed>Written in true Love by your Friend and Siſter, who deſires your Proſperity in the bleſſed Truth. <hi>A. Fiſher.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> T. Sowle, <hi>at the</hi> Crooked-Billet, <hi>in</hi> Holy-well-Lane, Shoreditch, 1694.</p>
+            <pb facs="tcp:93652:6"/>
+            <!-- PDF PAGE 66 -->
+         </div>
+      </back>
+   </text>
+</TEI>
